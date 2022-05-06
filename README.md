@@ -1,24 +1,18 @@
 # projecth5
 
-## Project setup
+## 初始化项目
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
 ```
 npm run serve
 ```
+### 不同环境变量启动命令
+npm run (dev-test-tow-test)
 
-### Compiles and minifies for production
+### 打包项目
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
