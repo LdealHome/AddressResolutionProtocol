@@ -10,8 +10,9 @@ npm install
 npm run serve
 ```
 ### 不同环境变量启动命令
+```
 npm run (dev-test-tow-test)
-
+```
 ### 打包项目
 ```
 npm run build
